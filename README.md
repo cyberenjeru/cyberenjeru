@@ -1,3 +1,3 @@
 Olá, eu sou Vinicius Bernardes! <br>
-🔭 Atualmente estou estudando HTML, CSS e JavaScript.<br>
+🔭 Atualmente estou estudando JavaScript.<br>
 😄 Pronomes: ele/dele
