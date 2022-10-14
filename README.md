@@ -1,3 +1,3 @@
 Olá, eu sou Vinicius Bernardes.<br>
-Atualmente estou estudando JavaScript, React Native e Python.<br>
+Estudante de Análise e Desenvolvimento de Sistemas.<br>
 Pronomes: ele/dele.
