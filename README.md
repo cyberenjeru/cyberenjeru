@@ -8,7 +8,7 @@
 
 **HP:** 100/100 ![HP](https://progress-bar.dev/100/?title=HP&color=green)
 
-**MP:** 50/50 ![MP](https://progress-bar.dev/50/?title=MP&color=blue)
+**MP:** 50/100 ![MP](https://progress-bar.dev/50/?title=MP&color=blue)
 
 **Armas:** Teclado, mouse e fone de ouvidos
 
